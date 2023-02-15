@@ -1,2 +1,8 @@
-iwho areyou
-how are
+#include<stdio.h>
+i
+
+A:
+A
+A
+D
+

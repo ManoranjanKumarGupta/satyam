@@ -1,0 +1,150 @@
+#include<stdio.h>
+
+int main()
+{
+   int age=0;
+
+   if(age<=14)
+   {
+   	printf("You have not completed 10th exam)
+	
+   }
+  
+   else if(age>14 && age<=17)
+   {
+   	printf("You have completed 10th)
+	printf("You are doing 11th"4 && age<=17)
+	{
+		printf("You have completed 10th)
+		printf("You are doing 11th"4 && age<=17)
+		{
+			printf("You have completed 10th)
+			printf("You are doing 11th"4 && age<=17)
+			{
+				printf("You have completed 10th)
+				printf("You are doing 11th"4 && age<=17)
+				{
+					printf("You have completed 10th)
+					printf("You are doing 11th"4 && age<=17)
+					{
+						printf("You have completed 10th)
+						printf("You are doing 11th"4 && age<=17)
+						{
+							printf("You have completed 10th)
+							printf("You are doing 11th"4 && age<=17)
+							{
+								printf("You have completed 10th)
+								printf("You are doing 11th"4 && age<=17)
+								{
+									printf("You have completed 10th)
+									printf("You are doing 11th"4 && age<=17)
+									{
+										printf("You have completed 10th)
+										printf("You are doing 11th"4 && age<=17)
+										{
+											printf("You have completed 10th)
+											printf("You are doing 11th"4 && age<=17)
+											{
+												printf("You have completed 10th)
+												printf("You are doing 11th"4 && age<=17)
+												{
+													printf("You have completed 10th)
+													printf("You are doing 11th"4 && age<=17)
+													{
+														printf("You have completed 10th)
+														printf("You are doing 11th"4 && age<=17)
+														{
+															printf("You have completed 10th)
+															printf("You are doing 11th"4 && age<=17)
+															{
+																printf("You have completed 10th)
+																printf("You are doing 11th"4 && age<=17)
+																{
+																	printf("You have completed 10th)
+																	printf("You are doing 11th"4 && age<=17)
+																	{
+																		printf("You have completed 10th)
+																		printf("You are doing 11th"4 && age<=17)
+																		{
+																			printf("You have completed 10th)
+																			printf("You are doing 11th"4 && age<=17)
+																			{
+																				printf("You have completed 10th)
+																				printf("You are doing 11th"4 && age<=17)
+																				{
+																					printf("You have completed 10th)
+																					printf("You are doing 11th"4 && age<=17)
+																					{
+																						printf("You have completed 10th)
+																						printf("You are doing 11th"4 && age<=17)
+																						{
+																							printf("You have completed 10th)
+																							printf("You are doing 11th"4 && age<=17)
+																							{
+																								printf("You have completed 10th)
+																								printf("You are doing 11th"4 && age<=17)
+																								{
+																									printf("You have completed 10th)
+																									printf("You are doing 11th"4 && age<=17)
+																									{
+																										printf("You have completed 10th)
+																										printf("You are doing 11th"4 && age<=17)
+																										{
+																											printf("You have completed 10th)
+																											printf("You are doing 11th"4 && age<=17)
+																											{
+																												printf("You have completed 10th)
+																												printf("You are doing 11th"4 && age<=17)
+																												{
+																													printf("You have completed 10th)
+																													printf("You are doing 11th"4 && age<=17)
+																													{
+																														printf("You have completed 10th)
+																														printf("You are doing 11th"4 && age<=17)
+																														{
+																															printf("You have completed 10th)
+																															printf("You are doing 11th"4 && age<=17)
+																															{
+																																printf("You have completed 10th)
+																																printf("You are doing 11th"4 && age<=17)
+																																{
+																																	printf("You have completed 10th)
+																																	printf("You are doing 11th"4 && age<=17)
+																																	{
+																																		printf("You have completed 10th)
+																																		printf("You are doing 11th"4 && age<=17)
+																																		{
+																																			printf("You have completed 10th)
+																																			printf("You are doing 11th"4 && age<=17)
+																																			{
+																																				printf("You have completed 10th)
+																																				printf("You are doing 11th"4 && age<=17)
+																																				{
+																																					printf("You have completed 10th)
+																																					printf("You are doing 11th"4 && age<=17)
+																																					{
+																																						printf("You have completed 10th)
+																																						printf("You are doing 11th"4 && age<=17)
+																																						{
+																																							printf("You have completed 10th)
+																																							printf("You are doing 11th"4 && age<=17)
+																																							{
+																																								printf("You have completed 10th)
+																																								printf("You are doing 11th"4 && age<=17)
+																																								{
+																																									printf("You have completed 10th)
+																																									printf("You are doing 11th"4 && age<=17)
+																																									{
+																																										printf("You have completed 10th)
+																																										printf("You are doing 11th"4 && age<=17)
+																																										{
+																																											printf("You have completed 10th)
+																																											printf("You are doing 11th"4 && age<=17)
+																																											{
+																																												printf("You have completed 10th)
+																																												a
+																																												printf("You are doing 11th"
+
+	
+
+

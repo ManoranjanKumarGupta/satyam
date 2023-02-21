@@ -1,4 +1,4 @@
-#inlude<stdio.h>
+
 
 A
 A
@@ -15,8 +15,14 @@ B
 B
 B
 B
+
+      4 A
+      5 A
+      6 A
+      7 A
 B
 B
+
 B
 B
 B
